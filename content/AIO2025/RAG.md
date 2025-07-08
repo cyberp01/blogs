@@ -441,4 +441,5 @@ messages = [
 
 Base code hiện tại phù hợp cho demo, nghiên cứu hoặc ứng dụng nhỏ. Để triển khai thực tế, nên chuyển sang kiến trúc microservice, dùng cloud, tối ưu chunking, bảo mật và quản lý phiên bản chặt chẽ hơn.
 
-![image.png](image.png)
+![[image.png]]
+
