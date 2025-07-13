@@ -17,6 +17,12 @@ details.toc {
     list-style: none;
     margin: 0.5rem 1.25rem;
     padding: 0;
+    
+    & li a {
+      text-align: left;
+      text-decoration: none;
+      display: block;
+    }
   }
 
   @for $i from 1 through 6 {
