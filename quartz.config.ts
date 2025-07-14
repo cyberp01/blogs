@@ -35,7 +35,7 @@ const config: QuartzConfig = {
           darkgray: "#444444",                 // Màu chữ chính trong nội dung (paragraph, text)
           dark: "#1c1c1e",                     // Màu tiêu đề (h1, h2, h3...), icon, text quan trọng
           secondary: "#007aff",                // Màu link thường, node hiện tại trong graph, button
-          tertiary: "#ffd60a",                 // Màu hover state, node đã thăm trong graph, accent color (vàng)
+          tertiary: "#d6b745",                 // Màu hover state, node đã thăm trong graph, accent color (vàng)
           highlight: "rgba(0, 122, 255, 0.1)", // Màu nền cho link nội bộ (internal link background)
           textHighlight: "#ffcc00aa",          // Màu nền cho text được highlight/đánh dấu
         },
@@ -46,10 +46,10 @@ const config: QuartzConfig = {
           darkgray: "#e5e5e7",                 // Màu chữ chính trong nội dung (paragraph, text) - dark theme
           dark: "#f2f2f7",                     // Màu tiêu đề (h1, h2, h3...), icon, text quan trọng - dark theme
           secondary: "#0a84ff",                // Màu link thường, node hiện tại trong graph, button - dark theme
-          tertiary: "#ffd60a",                 // Màu hover state, node đã thăm trong graph, accent color (vàng)
+          tertiary: "#d6b745",                 // Màu hover state, node đã thăm trong graph, accent color (vàng)
           highlight: "rgba(10, 132, 255, 0.15)", // Màu nền cho link nội bộ (internal link background) - dark theme
           textHighlight: "#ffd60a99",          // Màu nền cho text được highlight/đánh dấu - dark theme
-        },
+        }
       },
     },
   },
