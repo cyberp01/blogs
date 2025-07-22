@@ -24,6 +24,7 @@ Do nhóm chúng mình được thành lập muộn nên chỉ có các blog kể
 Module 2:
 - [[M02W01 - Khai phá sức mạnh của Numpy & Đại số tuyến tính]]
 - [[M02W02 - Xác suất và Naïve Bayes]]
+- [[M02W03 - Thống kê cơ bản và ứng dụng vào AI]]
 
 ---
 
