@@ -26,6 +26,10 @@ Module 2:
 - [[M02W02 - Xác suất và Naïve Bayes]]
 - [[M02W03 - Thống kê cơ bản và ứng dụng vào AI]]
 
+Module 3:
+- [[M03W01 - Trực Quan Hóa Dữ Liệu với Pandas & Python]]
+
+
 ---
 
 ## ✍️ Tác giả
