@@ -28,7 +28,7 @@ Module 2:
 
 Module 3:
 - [[M03W01 - Trực Quan Hóa Dữ Liệu với Pandas & Python]]
-
+- [[M03W02 - KNN và K-Means]]
 
 ---
 
