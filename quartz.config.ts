@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "AIO25> GRID158",
+    pageTitle: "PATRICK> NHAT.NTM",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
